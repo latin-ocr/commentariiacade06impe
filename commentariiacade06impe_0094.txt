@@ -1,0 +1,38 @@
+70 METHODVS GENERALIS
+
+ξ. 3. Methodus autem, quam hic sum expositu-
+rus, ita se habet, vt progredio proposita certis quibus-
+dam operationibus vel ad aliam simpliciorem, quare
+summ-„iri potest, vel iterum ad se ipsum reducaturz, vti-oque
+enim modo summa progreffionis propositae constabit.
+Operatione-s, quibus in hisce transtormutionibns vtor,
+sunt vel vulgares vt additio, subtractio etc. vel ex al-
+tiori amlyfi, stimme vt differeiiti2itio et integratio. Illa
+quidem aliis seriebus non inseruiunt‚ nisi quarum film-
+matio iam est cognita et algebraice assignari potestz,
+His vero etiam progreffionum summas algebraicas non
+habentium summae a curuurum quadraturis pendentes
+reperiuntur. Omnes autem leries ad quas haec metho-
+dus accommodari potest, in se complectuntur progressio-
+nem geometricam, et huiusmodi habent formam axa
+-4—'8xa4b-4—‘yx‘¹÷²b-†-5x“÷³⁶-†- etc. Id quod non
+impedit, quo minus progressio quaecunque in hac for-
+ma contineatur.
+
+§. 4. Vt a fimplicissimis incipiam, sit progressio
+proposita geometrica, .t·‘²÷2·“÷b—}— x ⁶÷²b÷ ὤμ’-354-
+------ .τ””“·(””“)ῑ’, in qua extremus terminus est
+is cuius index est n, atque hoc in sequentibus semper
+notetur, terminum vltimum effe eum, cuius index est
+n, ne opus habe-„rm indices adscribere3 et proinde etiam
+semper summam Vsque ad terminum indicis n exhibe-
+bo. Ponatur summa progreffionis propositae s, crit
+
+ 
+
+s:.1·‘²-÷—.t“⁷÷b—†-x““*‘²b — · -· - -†- .2·““*'‘¹'¹“¹)²’ tunc fiet
+s - ,τα Ξ .τ“’*-ἷ’ -ὶω x ‘¹4²²' ————— -Ι- .ῑ·““*·(””“ ¹ ³²² ‚ addatur
+
+. . . . . s- a·'¹·-†-„1·‘⁷'⁴'‘'²b
+vtrmque ,τα-Ἠῶ et dundatur per ,rb ‚ prodibit 3³—-
+
